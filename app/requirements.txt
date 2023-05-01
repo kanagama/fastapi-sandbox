@@ -1,0 +1,5 @@
+# ORM
+SQLAlchemy==2.0.12
+# MySQL
+mysqlclient
+pymysql==1.0.3
